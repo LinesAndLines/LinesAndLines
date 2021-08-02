@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @LinesAndLines
+- 👀 I’m interested in DataScience, AI and Science for my personal growth.
